@@ -7,5 +7,6 @@ public void thisIsANewMethod(int a) { }
 void main()
 {
 	printf("Hello World!");
+	printf("Not again!");
 }
 >>>>>>> fd1b2a03cbc2b3948ac96e0b9250c7bc8aae9316
