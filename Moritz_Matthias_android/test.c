@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-public void thisIsANewMethod() { }
+public void thisIsANewMethod(int a) { }
 =======
 #include <stdio.h>
 
